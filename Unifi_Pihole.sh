@@ -172,7 +172,7 @@ help_script() {
     --add-repository            Add UniFi Repository if --skip is used.
     --custom-url [argument]     Manually provide a UniFi Network Controller download URL.
                                 example:
-                                --custom-url https://dl.ui.com/unifi/5.12.72/unifi_sysvinit_all.deb
+                                --custom-url https://dl.ui.com/unifi/6.5.55/unifi_sysvinit_all.deb
     --help                      Shows this information :)\\n\\n
   Script options for Let's Encrypt:
     --v6                        Run the script in IPv6 mode instead of IPv4.
